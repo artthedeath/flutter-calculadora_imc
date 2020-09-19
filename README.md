@@ -1,6 +1,7 @@
 # Calculadora Imc
 
-A new Flutter project.
+Projeto da 6 aula de programação para dispositivos móveis da Fatec Ribeirão Preto.
+Feito um app simples que calcula o IMC (indice de massa corporal)
 
 ## Getting Started
 
